@@ -8,7 +8,7 @@ Soy un desarrollador apasionado de la Animación/modelado 3D/Texturizado/Editor.
 - Substance
 - Y el paquete adobe
 
-! [mi foto] E:\primeroanimacion_HuertaGonzalez_Raul\animacion\14_POSE EN ESPERA_HuertaGonzalezRaul\14_POSE EN ESPERA_HuertaGonzalezRaul\images
+! [mi foto] (E:\primeroanimacion_HuertaGonzalez_Raul\animacion\14_POSE EN ESPERA_HuertaGonzalezRaul\14_POSE EN ESPERA_HuertaGonzalezRaul\images)
 
 ## Contacto:
 - Correo: raul210406@gmail.com
