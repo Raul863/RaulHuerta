@@ -21,3 +21,7 @@ Soy un desarrollador apasionado de la Animación/modelado 3D/Texturizado/Editor.
 
 ## 🚀Algunos de mis trabajos:
 
+## 🕵️Mis idiomas:
+-Ingles
+-Español
+-Frances
