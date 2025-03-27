@@ -1,19 +1,23 @@
 # Hola, soy Raul 👋
 
-
+![PRESENTACION](https://i.pinimg.com/originals/be/53/fc/be53fc5350400539c44b3bc7c2552fe9.gif)
 
 Soy un desarrollador apasionado de la Animación/modelado 3D/Texturizado/Editor. Me gusta trabajar con tecnologías como:
 - Maya
 - Blender
 - Substance
-- Y el paquete adobe
+- El paquete adobe
+- Indesign
+- Figma
 
-![Texto alternativo](E:\primeroanimacion_HuertaGonzalez_Raul\animacion\14_POSE EN ESPERA_HuertaGonzalezRaul\14_POSE EN ESPERA_HuertaGonzalezRaul\images.jpg)
+## 👨‍🚒 Mis gustos son:
+-Anime
+-Leer mangas
+-Pintar miniaturas
+-Conocer gente
 
-## Contacto:
-- Correo: raul210406@gmail.com
+## 🗿 Contacto:
+- Correo: raulhuerta210406@gmail.com
 
-  
-
-## Algunos de mis proyectos:
+## 🚀Algunos de mis trabajos:
 
